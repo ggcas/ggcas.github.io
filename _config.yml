@@ -4,6 +4,5 @@ theme: jekyll-theme-minimal
 # Optional: add navigation
 header_pages:
   - index.md
-  - cv.md
   - publications.md
   - contact.md
