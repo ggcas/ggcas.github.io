@@ -1,8 +1,0 @@
-title: "Dr. Your Name"
-theme: jekyll-theme-minimal
-
-# Optional: add navigation
-header_pages:
-  - index.md
-  - publications.md
-  - contact.md
