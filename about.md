@@ -5,7 +5,7 @@ title: About
 
 ## About Me
 
-I am a researcher working in numerical analysis, finite element methods,
-domain decomposition methods, and parallel-in-time algorithms.
+Hello there! I'm Gobinda Garai, currently engaged in a postdoctoral position at the Institute of Mathematics, Czech Academy of Sciences (CAS), Prague, where I am working with Dr. Jakub Šístek and Dr. Tomáš Vejchodský . 
 
-My work focuses on scalable solvers for PDEs and optimization problems.
+Before this, I held a postdoctoral position at IISER Thiruvananthapuram, Kerala, India, in the research group of Dr. Nagaiah Chamakuri.
+I completed my Ph.D. at IIT Bhubaneswar, India, under the supervision of Dr. Bankim C. Mandal.
